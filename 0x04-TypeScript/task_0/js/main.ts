@@ -9,7 +9,7 @@ const student1: Student = {
   firstName: 'Paul',
   lastName: 'Jerry',
   age: 27,
-  location: 'Nigeria'
+  location: 'Egypt'
 }
 
 const student2: Student = {
